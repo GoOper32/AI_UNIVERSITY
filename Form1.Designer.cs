@@ -139,9 +139,10 @@ namespace AI_1_Csh
             // pb_map
             // 
             this.pb_map.Image = global::AI_1_Csh.Properties.Resources.map;
-            this.pb_map.Location = new System.Drawing.Point(148, 40);
+            this.pb_map.Location = new System.Drawing.Point(111, 32);
+            this.pb_map.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_map.Name = "pb_map";
-            this.pb_map.Size = new System.Drawing.Size(961, 614);
+            this.pb_map.Size = new System.Drawing.Size(721, 499);
             this.pb_map.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_map.TabIndex = 5;
             this.pb_map.TabStop = false;
@@ -150,9 +151,10 @@ namespace AI_1_Csh
             // pb_orange
             // 
             this.pb_orange.Image = global::AI_1_Csh.Properties.Resources.orange;
-            this.pb_orange.Location = new System.Drawing.Point(12, 438);
+            this.pb_orange.Location = new System.Drawing.Point(9, 356);
+            this.pb_orange.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_orange.Name = "pb_orange";
-            this.pb_orange.Size = new System.Drawing.Size(53, 48);
+            this.pb_orange.Size = new System.Drawing.Size(40, 39);
             this.pb_orange.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_orange.TabIndex = 4;
             this.pb_orange.TabStop = false;
@@ -162,9 +164,10 @@ namespace AI_1_Csh
             // pb_scarlet
             // 
             this.pb_scarlet.Image = global::AI_1_Csh.Properties.Resources.red;
-            this.pb_scarlet.Location = new System.Drawing.Point(12, 384);
+            this.pb_scarlet.Location = new System.Drawing.Point(9, 312);
+            this.pb_scarlet.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_scarlet.Name = "pb_scarlet";
-            this.pb_scarlet.Size = new System.Drawing.Size(53, 48);
+            this.pb_scarlet.Size = new System.Drawing.Size(40, 39);
             this.pb_scarlet.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_scarlet.TabIndex = 3;
             this.pb_scarlet.TabStop = false;
@@ -174,9 +177,10 @@ namespace AI_1_Csh
             // pb_purple
             // 
             this.pb_purple.Image = global::AI_1_Csh.Properties.Resources.purpure;
-            this.pb_purple.Location = new System.Drawing.Point(12, 330);
+            this.pb_purple.Location = new System.Drawing.Point(9, 268);
+            this.pb_purple.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_purple.Name = "pb_purple";
-            this.pb_purple.Size = new System.Drawing.Size(53, 48);
+            this.pb_purple.Size = new System.Drawing.Size(40, 39);
             this.pb_purple.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_purple.TabIndex = 2;
             this.pb_purple.TabStop = false;
@@ -186,9 +190,10 @@ namespace AI_1_Csh
             // pb_green
             // 
             this.pb_green.Image = global::AI_1_Csh.Properties.Resources.green;
-            this.pb_green.Location = new System.Drawing.Point(12, 276);
+            this.pb_green.Location = new System.Drawing.Point(9, 224);
+            this.pb_green.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_green.Name = "pb_green";
-            this.pb_green.Size = new System.Drawing.Size(53, 48);
+            this.pb_green.Size = new System.Drawing.Size(40, 39);
             this.pb_green.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_green.TabIndex = 1;
             this.pb_green.TabStop = false;
@@ -198,9 +203,10 @@ namespace AI_1_Csh
             // pb_blue
             // 
             this.pb_blue.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_blue.Location = new System.Drawing.Point(12, 222);
+            this.pb_blue.Location = new System.Drawing.Point(9, 180);
+            this.pb_blue.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_blue.Name = "pb_blue";
-            this.pb_blue.Size = new System.Drawing.Size(53, 48);
+            this.pb_blue.Size = new System.Drawing.Size(40, 39);
             this.pb_blue.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_blue.TabIndex = 0;
             this.pb_blue.TabStop = false;
@@ -215,9 +221,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_2.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_2.Location = new System.Drawing.Point(417, 181);
+            this.pb_a_2.Location = new System.Drawing.Point(313, 147);
+            this.pb_a_2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_2.Name = "pb_a_2";
-            this.pb_a_2.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_2.Size = new System.Drawing.Size(40, 39);
             this.pb_a_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_2.TabIndex = 6;
             this.pb_a_2.TabStop = false;
@@ -229,9 +236,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_1.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_1.Location = new System.Drawing.Point(327, 181);
+            this.pb_a_1.Location = new System.Drawing.Point(245, 147);
+            this.pb_a_1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_1.Name = "pb_a_1";
-            this.pb_a_1.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_1.Size = new System.Drawing.Size(40, 39);
             this.pb_a_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_1.TabIndex = 6;
             this.pb_a_1.TabStop = false;
@@ -243,9 +251,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_3.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_3.Location = new System.Drawing.Point(507, 181);
+            this.pb_a_3.Location = new System.Drawing.Point(380, 147);
+            this.pb_a_3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_3.Name = "pb_a_3";
-            this.pb_a_3.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_3.Size = new System.Drawing.Size(40, 39);
             this.pb_a_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_3.TabIndex = 6;
             this.pb_a_3.TabStop = false;
@@ -257,9 +266,10 @@ namespace AI_1_Csh
             // 
             this.pictureBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pictureBox4.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pictureBox4.Location = new System.Drawing.Point(461, 259);
+            this.pictureBox4.Location = new System.Drawing.Point(346, 210);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(53, 48);
+            this.pictureBox4.Size = new System.Drawing.Size(40, 39);
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 6;
             this.pictureBox4.TabStop = false;
@@ -270,9 +280,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_5.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_5.Location = new System.Drawing.Point(371, 259);
+            this.pb_a_5.Location = new System.Drawing.Point(278, 210);
+            this.pb_a_5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_5.Name = "pb_a_5";
-            this.pb_a_5.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_5.Size = new System.Drawing.Size(40, 39);
             this.pb_a_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_5.TabIndex = 6;
             this.pb_a_5.TabStop = false;
@@ -284,9 +295,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_4.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_4.Location = new System.Drawing.Point(281, 259);
+            this.pb_a_4.Location = new System.Drawing.Point(211, 210);
+            this.pb_a_4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_4.Name = "pb_a_4";
-            this.pb_a_4.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_4.Size = new System.Drawing.Size(40, 39);
             this.pb_a_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_4.TabIndex = 6;
             this.pb_a_4.TabStop = false;
@@ -298,9 +310,10 @@ namespace AI_1_Csh
             // 
             this.pictureBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pictureBox5.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pictureBox5.Location = new System.Drawing.Point(550, 259);
+            this.pictureBox5.Location = new System.Drawing.Point(412, 210);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(53, 48);
+            this.pictureBox5.Size = new System.Drawing.Size(40, 39);
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 6;
             this.pictureBox5.TabStop = false;
@@ -311,9 +324,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_6.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_6.Location = new System.Drawing.Point(460, 259);
+            this.pb_a_6.Location = new System.Drawing.Point(345, 210);
+            this.pb_a_6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_6.Name = "pb_a_6";
-            this.pb_a_6.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_6.Size = new System.Drawing.Size(40, 39);
             this.pb_a_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_6.TabIndex = 6;
             this.pb_a_6.TabStop = false;
@@ -325,9 +339,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_7.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_7.Location = new System.Drawing.Point(550, 259);
+            this.pb_a_7.Location = new System.Drawing.Point(412, 210);
+            this.pb_a_7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_7.Name = "pb_a_7";
-            this.pb_a_7.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_7.Size = new System.Drawing.Size(40, 39);
             this.pb_a_7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_7.TabIndex = 6;
             this.pb_a_7.TabStop = false;
@@ -339,9 +354,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_9.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_9.Location = new System.Drawing.Point(315, 336);
+            this.pb_a_9.Location = new System.Drawing.Point(236, 273);
+            this.pb_a_9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_9.Name = "pb_a_9";
-            this.pb_a_9.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_9.Size = new System.Drawing.Size(40, 39);
             this.pb_a_9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_9.TabIndex = 6;
             this.pb_a_9.TabStop = false;
@@ -353,9 +369,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_8.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_8.Location = new System.Drawing.Point(223, 336);
+            this.pb_a_8.Location = new System.Drawing.Point(167, 273);
+            this.pb_a_8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_8.Name = "pb_a_8";
-            this.pb_a_8.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_8.Size = new System.Drawing.Size(40, 39);
             this.pb_a_8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_8.TabIndex = 6;
             this.pb_a_8.TabStop = false;
@@ -367,9 +384,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_10.Image = global::AI_1_Csh.Properties.Resources.orange;
-            this.pb_a_10.Location = new System.Drawing.Point(406, 336);
+            this.pb_a_10.Location = new System.Drawing.Point(304, 273);
+            this.pb_a_10.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_10.Name = "pb_a_10";
-            this.pb_a_10.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_10.Size = new System.Drawing.Size(40, 39);
             this.pb_a_10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_10.TabIndex = 6;
             this.pb_a_10.TabStop = false;
@@ -381,9 +399,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_11.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_11.Location = new System.Drawing.Point(498, 336);
+            this.pb_a_11.Location = new System.Drawing.Point(374, 273);
+            this.pb_a_11.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_11.Name = "pb_a_11";
-            this.pb_a_11.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_11.Size = new System.Drawing.Size(40, 39);
             this.pb_a_11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_11.TabIndex = 6;
             this.pb_a_11.TabStop = false;
@@ -395,9 +414,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_12.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_12.Location = new System.Drawing.Point(589, 336);
+            this.pb_a_12.Location = new System.Drawing.Point(442, 273);
+            this.pb_a_12.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_12.Name = "pb_a_12";
-            this.pb_a_12.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_12.Size = new System.Drawing.Size(40, 39);
             this.pb_a_12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_12.TabIndex = 6;
             this.pb_a_12.TabStop = false;
@@ -409,9 +429,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_16.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_16.Location = new System.Drawing.Point(550, 417);
+            this.pb_a_16.Location = new System.Drawing.Point(412, 339);
+            this.pb_a_16.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_16.Name = "pb_a_16";
-            this.pb_a_16.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_16.Size = new System.Drawing.Size(40, 39);
             this.pb_a_16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_16.TabIndex = 6;
             this.pb_a_16.TabStop = false;
@@ -423,9 +444,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_14.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_14.Location = new System.Drawing.Point(371, 417);
+            this.pb_a_14.Location = new System.Drawing.Point(278, 339);
+            this.pb_a_14.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_14.Name = "pb_a_14";
-            this.pb_a_14.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_14.Size = new System.Drawing.Size(40, 39);
             this.pb_a_14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_14.TabIndex = 6;
             this.pb_a_14.TabStop = false;
@@ -437,9 +459,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_15.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_15.Location = new System.Drawing.Point(460, 417);
+            this.pb_a_15.Location = new System.Drawing.Point(345, 339);
+            this.pb_a_15.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_15.Name = "pb_a_15";
-            this.pb_a_15.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_15.Size = new System.Drawing.Size(40, 39);
             this.pb_a_15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_15.TabIndex = 6;
             this.pb_a_15.TabStop = false;
@@ -451,9 +474,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_13.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_13.Location = new System.Drawing.Point(281, 417);
+            this.pb_a_13.Location = new System.Drawing.Point(211, 339);
+            this.pb_a_13.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_13.Name = "pb_a_13";
-            this.pb_a_13.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_13.Size = new System.Drawing.Size(40, 39);
             this.pb_a_13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_13.TabIndex = 6;
             this.pb_a_13.TabStop = false;
@@ -465,9 +489,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_18.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_18.Location = new System.Drawing.Point(417, 493);
+            this.pb_a_18.Location = new System.Drawing.Point(313, 401);
+            this.pb_a_18.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_18.Name = "pb_a_18";
-            this.pb_a_18.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_18.Size = new System.Drawing.Size(40, 39);
             this.pb_a_18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_18.TabIndex = 6;
             this.pb_a_18.TabStop = false;
@@ -479,9 +504,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_17.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_17.Location = new System.Drawing.Point(327, 493);
+            this.pb_a_17.Location = new System.Drawing.Point(245, 401);
+            this.pb_a_17.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_17.Name = "pb_a_17";
-            this.pb_a_17.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_17.Size = new System.Drawing.Size(40, 39);
             this.pb_a_17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_17.TabIndex = 6;
             this.pb_a_17.TabStop = false;
@@ -493,9 +519,10 @@ namespace AI_1_Csh
             // 
             this.pb_a_19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_a_19.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_a_19.Location = new System.Drawing.Point(507, 493);
+            this.pb_a_19.Location = new System.Drawing.Point(380, 401);
+            this.pb_a_19.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_a_19.Name = "pb_a_19";
-            this.pb_a_19.Size = new System.Drawing.Size(53, 48);
+            this.pb_a_19.Size = new System.Drawing.Size(40, 39);
             this.pb_a_19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_a_19.TabIndex = 6;
             this.pb_a_19.TabStop = false;
@@ -507,9 +534,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_17.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_17.Location = new System.Drawing.Point(889, 259);
+            this.pb_t_17.Location = new System.Drawing.Point(668, 221);
+            this.pb_t_17.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_17.Name = "pb_t_17";
-            this.pb_t_17.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_17.Size = new System.Drawing.Size(24, 22);
             this.pb_t_17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_17.TabIndex = 15;
             this.pb_t_17.TabStop = false;
@@ -521,9 +549,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_18.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_18.Location = new System.Drawing.Point(937, 259);
+            this.pb_t_18.Location = new System.Drawing.Point(704, 221);
+            this.pb_t_18.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_18.Name = "pb_t_18";
-            this.pb_t_18.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_18.Size = new System.Drawing.Size(24, 22);
             this.pb_t_18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_18.TabIndex = 16;
             this.pb_t_18.TabStop = false;
@@ -535,9 +564,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_19.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_19.Location = new System.Drawing.Point(986, 259);
+            this.pb_t_19.Location = new System.Drawing.Point(741, 221);
+            this.pb_t_19.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_19.Name = "pb_t_19";
-            this.pb_t_19.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_19.Size = new System.Drawing.Size(24, 22);
             this.pb_t_19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_19.TabIndex = 18;
             this.pb_t_19.TabStop = false;
@@ -549,9 +579,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_2.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_2.Location = new System.Drawing.Point(937, 103);
+            this.pb_t_2.Location = new System.Drawing.Point(708, 92);
+            this.pb_t_2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_2.Name = "pb_t_2";
-            this.pb_t_2.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_2.Size = new System.Drawing.Size(24, 22);
             this.pb_t_2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_2.TabIndex = 16;
             this.pb_t_2.TabStop = false;
@@ -563,9 +594,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_3.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_3.Location = new System.Drawing.Point(986, 103);
+            this.pb_t_3.Location = new System.Drawing.Point(745, 92);
+            this.pb_t_3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_3.Name = "pb_t_3";
-            this.pb_t_3.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_3.Size = new System.Drawing.Size(24, 22);
             this.pb_t_3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_3.TabIndex = 18;
             this.pb_t_3.TabStop = false;
@@ -577,9 +609,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_4.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_4.Location = new System.Drawing.Point(871, 141);
+            this.pb_t_4.Location = new System.Drawing.Point(653, 123);
+            this.pb_t_4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_4.Name = "pb_t_4";
-            this.pb_t_4.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_4.Size = new System.Drawing.Size(24, 22);
             this.pb_t_4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_4.TabIndex = 15;
             this.pb_t_4.TabStop = false;
@@ -591,9 +624,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_5.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_5.Location = new System.Drawing.Point(919, 141);
+            this.pb_t_5.Location = new System.Drawing.Point(689, 123);
+            this.pb_t_5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_5.Name = "pb_t_5";
-            this.pb_t_5.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_5.Size = new System.Drawing.Size(24, 22);
             this.pb_t_5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_5.TabIndex = 16;
             this.pb_t_5.TabStop = false;
@@ -605,9 +639,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_6.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_6.Location = new System.Drawing.Point(968, 141);
+            this.pb_t_6.Location = new System.Drawing.Point(726, 123);
+            this.pb_t_6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_6.Name = "pb_t_6";
-            this.pb_t_6.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_6.Size = new System.Drawing.Size(24, 22);
             this.pb_t_6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_6.TabIndex = 18;
             this.pb_t_6.TabStop = false;
@@ -619,9 +654,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_7.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_7.Location = new System.Drawing.Point(1017, 141);
+            this.pb_t_7.Location = new System.Drawing.Point(763, 123);
+            this.pb_t_7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_7.Name = "pb_t_7";
-            this.pb_t_7.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_7.Size = new System.Drawing.Size(24, 22);
             this.pb_t_7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_7.TabIndex = 19;
             this.pb_t_7.TabStop = false;
@@ -632,9 +668,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_11.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_11.Location = new System.Drawing.Point(987, 181);
+            this.pb_t_11.Location = new System.Drawing.Point(740, 153);
+            this.pb_t_11.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_11.Name = "pb_t_11";
-            this.pb_t_11.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_11.Size = new System.Drawing.Size(24, 22);
             this.pb_t_11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_11.TabIndex = 23;
             this.pb_t_11.TabStop = false;
@@ -645,9 +682,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_10.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_10.Location = new System.Drawing.Point(938, 181);
+            this.pb_t_10.Location = new System.Drawing.Point(704, 153);
+            this.pb_t_10.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_10.Name = "pb_t_10";
-            this.pb_t_10.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_10.Size = new System.Drawing.Size(24, 22);
             this.pb_t_10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_10.TabIndex = 22;
             this.pb_t_10.TabStop = false;
@@ -658,9 +696,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_9.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_9.Location = new System.Drawing.Point(889, 181);
+            this.pb_t_9.Location = new System.Drawing.Point(667, 153);
+            this.pb_t_9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_9.Name = "pb_t_9";
-            this.pb_t_9.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_9.Size = new System.Drawing.Size(24, 22);
             this.pb_t_9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_9.TabIndex = 21;
             this.pb_t_9.TabStop = false;
@@ -671,9 +710,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_8.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_8.Location = new System.Drawing.Point(841, 181);
+            this.pb_t_8.Location = new System.Drawing.Point(631, 153);
+            this.pb_t_8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_8.Name = "pb_t_8";
-            this.pb_t_8.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_8.Size = new System.Drawing.Size(24, 22);
             this.pb_t_8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_8.TabIndex = 20;
             this.pb_t_8.TabStop = false;
@@ -684,9 +724,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_12.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_12.Location = new System.Drawing.Point(1033, 181);
+            this.pb_t_12.Location = new System.Drawing.Point(775, 153);
+            this.pb_t_12.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_12.Name = "pb_t_12";
-            this.pb_t_12.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_12.Size = new System.Drawing.Size(24, 22);
             this.pb_t_12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_12.TabIndex = 23;
             this.pb_t_12.TabStop = false;
@@ -697,9 +738,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_16.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_16.Location = new System.Drawing.Point(1017, 222);
+            this.pb_t_16.Location = new System.Drawing.Point(763, 188);
+            this.pb_t_16.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_16.Name = "pb_t_16";
-            this.pb_t_16.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_16.Size = new System.Drawing.Size(24, 22);
             this.pb_t_16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_16.TabIndex = 27;
             this.pb_t_16.TabStop = false;
@@ -710,9 +752,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_15.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_15.Location = new System.Drawing.Point(968, 222);
+            this.pb_t_15.Location = new System.Drawing.Point(726, 188);
+            this.pb_t_15.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_15.Name = "pb_t_15";
-            this.pb_t_15.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_15.Size = new System.Drawing.Size(24, 22);
             this.pb_t_15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_15.TabIndex = 26;
             this.pb_t_15.TabStop = false;
@@ -723,9 +766,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_14.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_14.Location = new System.Drawing.Point(919, 222);
+            this.pb_t_14.Location = new System.Drawing.Point(689, 188);
+            this.pb_t_14.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_14.Name = "pb_t_14";
-            this.pb_t_14.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_14.Size = new System.Drawing.Size(24, 22);
             this.pb_t_14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_14.TabIndex = 25;
             this.pb_t_14.TabStop = false;
@@ -736,9 +780,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_13.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_13.Location = new System.Drawing.Point(871, 222);
+            this.pb_t_13.Location = new System.Drawing.Point(653, 188);
+            this.pb_t_13.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_13.Name = "pb_t_13";
-            this.pb_t_13.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_13.Size = new System.Drawing.Size(24, 22);
             this.pb_t_13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_13.TabIndex = 24;
             this.pb_t_13.TabStop = false;
@@ -749,9 +794,10 @@ namespace AI_1_Csh
             // 
             this.pb_t_1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
             this.pb_t_1.Image = global::AI_1_Csh.Properties.Resources.blue;
-            this.pb_t_1.Location = new System.Drawing.Point(888, 103);
+            this.pb_t_1.Location = new System.Drawing.Point(671, 92);
+            this.pb_t_1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pb_t_1.Name = "pb_t_1";
-            this.pb_t_1.Size = new System.Drawing.Size(32, 27);
+            this.pb_t_1.Size = new System.Drawing.Size(24, 22);
             this.pb_t_1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pb_t_1.TabIndex = 16;
             this.pb_t_1.TabStop = false;
@@ -763,9 +809,10 @@ namespace AI_1_Csh
             // 
             this.labelBigCircle.AutoSize = true;
             this.labelBigCircle.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.17391F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelBigCircle.Location = new System.Drawing.Point(380, 9);
+            this.labelBigCircle.Location = new System.Drawing.Point(276, 32);
+            this.labelBigCircle.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelBigCircle.Name = "labelBigCircle";
-            this.labelBigCircle.Size = new System.Drawing.Size(132, 52);
+            this.labelBigCircle.Size = new System.Drawing.Size(110, 44);
             this.labelBigCircle.TabIndex = 28;
             this.labelBigCircle.Text = "Цель";
             // 
@@ -773,17 +820,19 @@ namespace AI_1_Csh
             // 
             this.labelSmallCircle.AutoSize = true;
             this.labelSmallCircle.Font = new System.Drawing.Font("Microsoft Sans Serif", 23.7913F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelSmallCircle.Location = new System.Drawing.Point(893, 7);
+            this.labelSmallCircle.Location = new System.Drawing.Point(670, 6);
+            this.labelSmallCircle.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelSmallCircle.Name = "labelSmallCircle";
-            this.labelSmallCircle.Size = new System.Drawing.Size(0, 44);
+            this.labelSmallCircle.Size = new System.Drawing.Size(0, 37);
             this.labelSmallCircle.TabIndex = 29;
             // 
             // btn_start
             // 
             this.btn_start.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.27826F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btn_start.Location = new System.Drawing.Point(676, 631);
+            this.btn_start.Location = new System.Drawing.Point(507, 498);
+            this.btn_start.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_start.Name = "btn_start";
-            this.btn_start.Size = new System.Drawing.Size(131, 41);
+            this.btn_start.Size = new System.Drawing.Size(98, 33);
             this.btn_start.TabIndex = 30;
             this.btn_start.Text = "Начать";
             this.btn_start.UseVisualStyleBackColor = true;
@@ -792,9 +841,10 @@ namespace AI_1_Csh
             // btn_solve
             // 
             this.btn_solve.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.27826F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btn_solve.Location = new System.Drawing.Point(813, 631);
+            this.btn_solve.Location = new System.Drawing.Point(610, 498);
+            this.btn_solve.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_solve.Name = "btn_solve";
-            this.btn_solve.Size = new System.Drawing.Size(131, 41);
+            this.btn_solve.Size = new System.Drawing.Size(122, 33);
             this.btn_solve.TabIndex = 31;
             this.btn_solve.Text = "Решить";
             this.btn_solve.UseVisualStyleBackColor = true;
@@ -804,9 +854,10 @@ namespace AI_1_Csh
             // btn_viewRight
             // 
             this.btn_viewRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.29565F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btn_viewRight.Location = new System.Drawing.Point(635, 40);
+            this.btn_viewRight.Location = new System.Drawing.Point(476, 32);
+            this.btn_viewRight.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_viewRight.Name = "btn_viewRight";
-            this.btn_viewRight.Size = new System.Drawing.Size(92, 69);
+            this.btn_viewRight.Size = new System.Drawing.Size(69, 56);
             this.btn_viewRight.TabIndex = 32;
             this.btn_viewRight.Text = ">";
             this.btn_viewRight.UseVisualStyleBackColor = true;
@@ -816,9 +867,10 @@ namespace AI_1_Csh
             // btn_viewLeft
             // 
             this.btn_viewLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 26.29565F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btn_viewLeft.Location = new System.Drawing.Point(148, 40);
+            this.btn_viewLeft.Location = new System.Drawing.Point(111, 32);
+            this.btn_viewLeft.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btn_viewLeft.Name = "btn_viewLeft";
-            this.btn_viewLeft.Size = new System.Drawing.Size(92, 69);
+            this.btn_viewLeft.Size = new System.Drawing.Size(69, 56);
             this.btn_viewLeft.TabIndex = 33;
             this.btn_viewLeft.Text = "<";
             this.btn_viewLeft.UseVisualStyleBackColor = true;
@@ -829,9 +881,10 @@ namespace AI_1_Csh
             // 
             this.LabelCountCondition.AutoSize = true;
             this.LabelCountCondition.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.03478F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.LabelCountCondition.Location = new System.Drawing.Point(5, 0);
+            this.LabelCountCondition.Location = new System.Drawing.Point(4, 0);
+            this.LabelCountCondition.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.LabelCountCondition.Name = "LabelCountCondition";
-            this.LabelCountCondition.Size = new System.Drawing.Size(286, 37);
+            this.LabelCountCondition.Size = new System.Drawing.Size(251, 31);
             this.LabelCountCondition.TabIndex = 34;
             this.LabelCountCondition.Text = "Состояний в сек: 0";
             // 
@@ -845,9 +898,10 @@ namespace AI_1_Csh
             // 
             this.labelOpen.AutoSize = true;
             this.labelOpen.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.03478F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelOpen.Location = new System.Drawing.Point(763, 375);
+            this.labelOpen.Location = new System.Drawing.Point(572, 305);
+            this.labelOpen.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelOpen.Name = "labelOpen";
-            this.labelOpen.Size = new System.Drawing.Size(267, 37);
+            this.labelOpen.Size = new System.Drawing.Size(234, 31);
             this.labelOpen.TabIndex = 35;
             this.labelOpen.Text = "Открытый лист: 0";
             // 
@@ -855,9 +909,10 @@ namespace AI_1_Csh
             // 
             this.labelClose.AutoSize = true;
             this.labelClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.03478F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelClose.Location = new System.Drawing.Point(765, 417);
+            this.labelClose.Location = new System.Drawing.Point(574, 339);
+            this.labelClose.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelClose.Name = "labelClose";
-            this.labelClose.Size = new System.Drawing.Size(267, 37);
+            this.labelClose.Size = new System.Drawing.Size(233, 31);
             this.labelClose.TabIndex = 36;
             this.labelClose.Text = "Закрытый лист: 0";
             // 
@@ -870,18 +925,19 @@ namespace AI_1_Csh
             // labelClick
             // 
             this.labelClick.AutoSize = true;
-            this.labelClick.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.03478F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelClick.Location = new System.Drawing.Point(628, 111);
+            this.labelClick.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelClick.Location = new System.Drawing.Point(457, 90);
+            this.labelClick.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.labelClick.Name = "labelClick";
-            this.labelClick.Size = new System.Drawing.Size(144, 37);
+            this.labelClick.Size = new System.Drawing.Size(122, 29);
             this.labelClick.TabIndex = 37;
             this.labelClick.Text = "Позиция:";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1178, 695);
+            this.ClientSize = new System.Drawing.Size(885, 570);
             this.Controls.Add(this.labelClick);
             this.Controls.Add(this.labelClose);
             this.Controls.Add(this.labelOpen);
@@ -938,9 +994,10 @@ namespace AI_1_Csh
             this.Controls.Add(this.pb_green);
             this.Controls.Add(this.pb_blue);
             this.Controls.Add(this.pb_map);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(1196, 740);
-            this.MinimumSize = new System.Drawing.Size(1196, 740);
+            this.MaximumSize = new System.Drawing.Size(901, 609);
+            this.MinimumSize = new System.Drawing.Size(901, 609);
             this.Name = "Form1";
             this.Text = "ИИ 1: Вращаем шарики";
             this.Load += new System.EventHandler(this.Form1_Load);
